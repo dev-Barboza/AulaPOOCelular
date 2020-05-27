@@ -1,0 +1,13 @@
+C:\Users\maheu\Documents\POOCELULAR\bin\Debug\netcoreapp3.1\POOCELULAR.exe
+C:\Users\maheu\Documents\POOCELULAR\bin\Debug\netcoreapp3.1\POOCELULAR.deps.json
+C:\Users\maheu\Documents\POOCELULAR\bin\Debug\netcoreapp3.1\POOCELULAR.runtimeconfig.json
+C:\Users\maheu\Documents\POOCELULAR\bin\Debug\netcoreapp3.1\POOCELULAR.runtimeconfig.dev.json
+C:\Users\maheu\Documents\POOCELULAR\bin\Debug\netcoreapp3.1\POOCELULAR.dll
+C:\Users\maheu\Documents\POOCELULAR\bin\Debug\netcoreapp3.1\POOCELULAR.pdb
+C:\Users\maheu\Documents\POOCELULAR\obj\Debug\netcoreapp3.1\POOCELULAR.csprojAssemblyReference.cache
+C:\Users\maheu\Documents\POOCELULAR\obj\Debug\netcoreapp3.1\POOCELULAR.csproj.CoreCompileInputs.cache
+C:\Users\maheu\Documents\POOCELULAR\obj\Debug\netcoreapp3.1\POOCELULAR.AssemblyInfoInputs.cache
+C:\Users\maheu\Documents\POOCELULAR\obj\Debug\netcoreapp3.1\POOCELULAR.AssemblyInfo.cs
+C:\Users\maheu\Documents\POOCELULAR\obj\Debug\netcoreapp3.1\POOCELULAR.dll
+C:\Users\maheu\Documents\POOCELULAR\obj\Debug\netcoreapp3.1\POOCELULAR.pdb
+C:\Users\maheu\Documents\POOCELULAR\obj\Debug\netcoreapp3.1\POOCELULAR.genruntimeconfig.cache
